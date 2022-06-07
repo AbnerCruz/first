@@ -1,5 +1,5 @@
 import random
-anderson = {'nome': "Anderson",'money': 200}
+anderson = {'nome': "Anderson",'money': 200000000000}
 flavia = {'nome': "Flávia", 'money': 200}
 maria = {'nome': "Maria", 'money': 200}
 gabrielly = {'nome': "Gabrielly", 'money': 200}
